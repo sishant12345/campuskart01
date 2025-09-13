@@ -251,8 +251,12 @@ export const WelcomePage: React.FC = () => {
                 </p>
               
                 <p className="text-gray-500 text-sm">
-                  Created by <span className="text-blue-400 font-medium">Apoorva singh</span> 
-                </p>
+  Created & Maintained by{" "}
+  <span className="text-blue-400 font-medium">Apoorva Singh</span>,{" "}
+  <span className="text-blue-400 font-medium">Siddhartha Singh</span> &{" "}
+  <span className="text-blue-400 font-medium">Sishant Verma</span>
+</p>
+
               </div>
             </div>
             
